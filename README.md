@@ -23,7 +23,7 @@ Researchers and enthusiasts in sentiment analysis and Natural Language Processin
 We encourage contributions from the research community to improve and expand this corpus. If you have suggestions or improvements, feel free to create issues or pull requests.
 
 ## Access
-You can access the repository and its contents [here](https://github.com/d7o-ae/saudiEAR/).
+You can access the repository and its contents [here]([https://github.com/d7o-ae/saudiEAR/](https://docs.google.com/spreadsheets/d/1-1uRGtYdTbjXKICq6kSGW_Ov8V_GPpzko8G7lhc1Qwg/edit?usp=sharing)).
 
 We invite you to explore, utilize, and contribute to this repository, helping to advance the field of sentiment analysis and linguistic studies.
 

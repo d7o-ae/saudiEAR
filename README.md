@@ -17,7 +17,7 @@ The highlight of this repository is the Saudi dialect labeled-tweets corpus, a v
 - Saudi Dialect Labeled-Tweets Corpus: An annotated collection of tweets, labeled with emotions and sentiments expressed in the Saudi dialect.
 
 ## Usage
-Researchers and enthusiasts in sentiment analysis and Natural Language Processing (NLP) can access this corpus to enhance their studies and gain insights into public sentiment. This repository aims to foster collaborative research in emotion analysis and linguistic studies.
+Researchers and enthusiasts in emotion analysis and Natural Language Processing (NLP) can access this corpus to enhance their studies and gain insights into public sentiment. This repository aims to foster collaborative research in emotion analysis and linguistic studies.
 
 ## Contribution
 We encourage contributions from the research community to improve and expand this corpus. If you have suggestions or improvements, feel free to create issues or pull requests.
@@ -27,5 +27,5 @@ It looks like you want to include a link to a Google Spreadsheet instead of a Gi
 ## Access
 You can access the repository and its contents [here](https://docs.google.com/spreadsheets/d/1-1uRGtYdTbjXKICq6kSGW_Ov8V_GPpzko8G7lhc1Qwg/edit?usp=sharing).
 
-We invite you to explore, utilize, and contribute to this repository, helping to advance the field of sentiment analysis and linguistic studies.
+We invite you to explore, utilize, and contribute to this repository, helping to advance the field of emotion analysis and linguistic studies.
 
